@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HelloFull/HelloFull.csproj" />
   <Project Path="HelloSimple/HelloSimple.csproj" />
+  <Project Path="Syntax/Syntax.csproj" Id="f39b02e1-dfe4-49a8-8dd1-b604eda0b12f" />
 </Solution>
